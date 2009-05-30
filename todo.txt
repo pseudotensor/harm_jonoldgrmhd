@@ -1,0 +1,29 @@
+1) check Toth emf at pole
+2) first order algorithm fails?
+   ldz algorithm and B-field instability
+   HLL and B-field instability?
+3) why my theta grid fails?
+4) kelpify code
+5) pt 512^2 a=0.9 1024^2?
+6) why code fails on dumping on pt (random a bit) (debug queue)
+
+7) lisco for real GR
+8) check movies for new sims
+
+9) try gdet slope_lim
+
+400x200 or any sim:
+1) ie: black spots at outer radial edge
+2) ie: permenant bars at poles, generates shock at very first image, doesn't appear at t=0 : seems to be near where many failures occur where ie goes from being a bar to nothing near inner radial edge.
+## Due to cooling function R^{-1/2} ?
+3) ie: alot of striping in ie linear plot for inner radial buldge
+4) ie: hot spots suddenly appear and disappear at inner radial edge
+5) vr(2,0,1): periodicity in patterns
+6) vr(2,1,0): long lasting pinch at poles in v_r
+7) vh(3,0,0): large polar velocity in first frame (near 0 at pole?)
+## Due to cooling
+8) br(im5p0s1l): checkerboard
+9) bh(im6p0s0l): pole seems to have non-zero bh!
+10 bh(im6p0s1l): ""
+11) 
+
